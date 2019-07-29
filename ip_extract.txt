@@ -1,0 +1,3 @@
+My ip is 400.65.179.203, sever ip is 10.65.34.56, 
+remote ip is 100.234.55.4, and 0.4.34.222, 
+ remote1 ip is 234.456.77.866
